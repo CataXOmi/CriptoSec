@@ -1,0 +1,9 @@
+---------------------------------------------Criptare---------------------------------------------
+Textul clar este: ITISSUMMERTIME
+Textul dupa prima criptare este: CJCUUMTTSYJCTS
+Textul dupa a doua criptare este: [68, 37, 70, 65, 105, 78, 36, 59, 27, 108, 58, 47, 59, 27]
+
+---------------------------------------------Decriptare---------------------------------------------
+Textul criptat este: [68, 37, 70, 65, 105, 78, 36, 59, 27, 108, 58, 47, 59, 27]
+Textul dupa prima decriptare este: CICUUMTTSYICTS
+Textul dupa a doua decriptare este: IWISSUMMERWIME
